@@ -4,7 +4,7 @@
  * Maintainers:
  *		Kyle Kemp
  *			- Twitter: @seiyria
- *			- Github:  seiyria
+ *			- Github:  seiyria 
  *		Rohit Kalkur
  *			- Twitter: @Rovolutionary
  *			- Github:  rovolution
