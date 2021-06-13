@@ -1,6 +1,6 @@
 <?php
 	
-	include 'includes/session.php';
+	include 'includes/session.php'; 
 	include 'includes/slugify.php';
 
 	$output = array('error'=>false,'list'=>'');
