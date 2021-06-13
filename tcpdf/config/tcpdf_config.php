@@ -5,7 +5,7 @@
 // Last Update : 2014-12-11
 //
 // Description : Configuration file for TCPDF.
-// Author      : Nicola Asuni - Tecnick.com LTD - www.tecnick.com - info@tecnick.com
+// Author      : Nicola Asuni - Tecnick.com LTD - www.tecnick.com - info@tecnick.com 
 // License     : GNU-LGPL v3 (http://www.gnu.org/copyleft/lesser.html)
 // -------------------------------------------------------------------
 // Copyright (C) 2004-2014  Nicola Asuni - Tecnick.com LTD
