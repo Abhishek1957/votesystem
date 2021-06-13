@@ -5,7 +5,7 @@
   	}
 
     if(isset($_SESSION['voter'])){
-      header('location: home.php');
+      header('location: home.php'); 
     }
 ?>
 <?php include 'includes/header.php'; ?>
