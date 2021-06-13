@@ -6,7 +6,7 @@
 	<?php include 'includes/navbar.php'; ?>
 	 
 	  <div class="content-wrapper">
-	    <div class="container">
+	    <div class="container"> 
 
 	      <!-- Main content -->
 	      <section class="content">
