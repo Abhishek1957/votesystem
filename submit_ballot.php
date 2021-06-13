@@ -44,7 +44,7 @@
 				}
 
 				unset($_SESSION['post']);
-				$_SESSION['success'] = 'Ballot Submitted';
+				$_SESSION['success'] = 'Ballot Submitted'; 
 
 			}
 
